@@ -1,0 +1,4 @@
+com/mergington/students/StudentsServiceApplication.class
+com/mergington/students/service/StudentRepository.class
+com/mergington/students/model/Student.class
+com/mergington/students/controller/StudentsController.class

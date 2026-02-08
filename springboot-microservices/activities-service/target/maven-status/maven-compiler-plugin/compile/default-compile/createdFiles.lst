@@ -1,0 +1,5 @@
+com/mergington/activities/service/ActivityRepository.class
+com/mergington/activities/config/RestTemplateConfig.class
+com/mergington/activities/ActivitiesServiceApplication.class
+com/mergington/activities/model/Activity.class
+com/mergington/activities/controller/ActivitiesController.class

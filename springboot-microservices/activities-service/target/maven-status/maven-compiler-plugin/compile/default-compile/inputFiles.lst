@@ -1,0 +1,5 @@
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/activities-service/src/main/java/com/mergington/activities/ActivitiesServiceApplication.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/activities-service/src/main/java/com/mergington/activities/config/RestTemplateConfig.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/activities-service/src/main/java/com/mergington/activities/model/Activity.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/activities-service/src/main/java/com/mergington/activities/service/ActivityRepository.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/activities-service/src/main/java/com/mergington/activities/controller/ActivitiesController.java

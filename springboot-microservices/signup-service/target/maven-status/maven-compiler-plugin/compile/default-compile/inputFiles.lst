@@ -1,0 +1,5 @@
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/signup-service/src/main/java/com/mergington/signup/service/SignupService.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/signup-service/src/main/java/com/mergington/signup/controller/SignupController.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/signup-service/src/main/java/com/mergington/signup/SignupServiceApplication.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/signup-service/src/main/java/com/mergington/signup/config/RestTemplateConfig.java
+/workspaces/skills-getting-started-with-github-copilot/springboot-microservices/signup-service/src/main/java/com/mergington/signup/dto/Activity.java
